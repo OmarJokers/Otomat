@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
-#include <fstrean>
-#include <nlohmann/json.hpp>
+#include <fstream>
+#include "nlohmann/json.hpp"
 
 using namespace std;
-using namespace json = nlohmann:json;
+using json = nlohmann::json;
 
 int main()
 {
