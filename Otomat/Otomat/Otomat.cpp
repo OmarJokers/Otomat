@@ -1,20 +1,26 @@
-// Otomat.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+#include <string>
+#include <fstrean>
+#include <nlohmann/json.hpp>
+
+using namespace std;
+using namespace json = nlohmann:json;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << " ************** HOSGELDINIZ **************" << endl;
+    cout << "" << endl;
+    cout << "Istediginiz urunu secmek icin yaninda bulunan sayiyi giriniz." << endl;
+    cout << "" << endl;
+    cout << "Urun Listesi    Fiyat Listesi\n";
+    cout << "1-Su             1.50TL\n";
+    cout << "2-Limonata       2.50TL\n";
+    cout << "3-Soguk Cay      3.25TL\n";
+    cout << "4-Soguk Kahve    3.75TL\n";
+    cout << "5-Coca Cola      4.75TL\n";
+    cout << "6-Pepsi          4.50TL\n";
+    cout << "7-Meyve Suyu     2.25TL\n";
+    cout << "8-Gazoz          3.50TL\n";
+    cout << "9-Soda           2.75TL\n";
+    cout << "0-Ayran          1.75TL\n";
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
