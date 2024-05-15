@@ -1,0 +1,23 @@
+1. Müşterinin otomattan satın alabileceği ürünlerin listesi sunulmalıdır.
+2. Müşteri ürünler arasından seçim yapmalı ve seçimini girmelidir.
+3. Müşterinin seçtiği ürünü ücreti bildirilmelidir.
+4. Müşteri ücretini nakit ödeyecektir.
+5. Ödeme sonrası müşterinin seçtiği ürün ve varsa para üstü verilecektir.
+
+//İÇECEK OTOMATI
+
+*İçecekler
+1-Su 1.50TL
+2-Limonata 2.50TL
+3-Soğuk Çay 3.25TL
+4-Soğuk Kahve 3.75TL
+5-Coca Cola 4.75Tl
+6-Pepsi 4.50TL
+7-Meyve Suyu 2.25TL
+8-Gazoz 3.50TL
+9-Soda 2.75TL
+10-Ayran 1.75TL
+
+*FlowChart
+
+1-(Menü ekranı) Kullanıcıya satın alabileceği içecekleri ve bu içeceklerin fiyatını gösteren bir menü göster.

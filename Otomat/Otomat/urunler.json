@@ -1,0 +1,64 @@
+﻿{
+  "urunler": [
+    {
+      "id": 0,
+      "ad": "Ayran",
+      "stok": 10,
+      "fiyat": 1.75
+    },
+    {
+      "id": 1,
+      "ad": "Su",
+      "stok": 10,
+      "fiyat": 1.50
+    },
+    {
+      "id": 2,
+      "ad": "Limonata",
+      "stok": 10,
+      "fiyat": 2.50
+    },
+    {
+      "id": 3,
+      "ad": "Soguk Cay",
+      "stok": 10,
+      "fiyat": 3.25
+    },
+    {
+      "id": 4,
+      "ad": "Soguk Kahve",
+      "stok": 10,
+      "fiyat": 3.75
+    },
+    {
+      "id": 5,
+      "ad": "Coca Cola",
+      "stok": 10,
+      "fiyat": 4.75
+    },
+    {
+      "id": 6,
+      "ad": "Pepsi",
+      "stok": 10,
+      "fiyat": 4.50
+    },
+    {
+      "id": 7,
+      "ad": "Meyve Suyu",
+      "stok": 10,
+      "fiyat": 2.25
+    },
+    {
+      "id": 8,
+      "ad": "Gazoz",
+      "stok": 10,
+      "fiyat": 3.50
+    },
+    {
+      "id": 9,
+      "ad": "Soda",
+      "stok": 10,
+      "fiyat": 2.75
+    }
+  ]
+}
